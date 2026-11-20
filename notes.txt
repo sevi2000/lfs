@@ -2,3 +2,5 @@ https://www.linuxfromscratch.org/lfs/view/stable-systemd/chapter02/aboutlfs.html
 
 
  2.6 Setting the $LFS Variable and the Umask 
+ https://www.linuxfromscratch.org/lfs/view/stable-systemd/chapter03/introduction.html
+  Chapter 3. Packages and Patches
