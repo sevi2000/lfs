@@ -3,3 +3,9 @@
 sources/openssl-4.0.1.tar.gz
 sources/gcc-16.2.0.tar.xz
 sources/linux-7.1.8.tar.xz
+
+# Large source archives
+sources/*.tar.gz
+sources/*.tar.xz
+sources/*.tar.bz2
+sources/*.zip
